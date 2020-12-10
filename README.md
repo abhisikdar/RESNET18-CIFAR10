@@ -17,3 +17,5 @@ We use PyTorch for all the four parts.
     d) Shallow Gradients
   3) Use Tiny CIFAR-10 with augmentations and dropout layers. We use the standard MoCoV2 augmentations here.
   4) Visualize the activation maps for all the above cases for initial, middle and last Conv2D layers.
+  
+NOTE: Work Under Progress
