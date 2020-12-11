@@ -1,5 +1,5 @@
 # RESNET18-CIFAR10
-PyTorch code for ResNet18 on CIFAR10+ Tiny CIFAR10 w/ Augmentations + Transfer Learning + Activation Maps
+PyTorch code for ResNet18 on CIFAR10+Tiny CIFAR10 w/ Augmentations + Transfer Learning + Activation Maps
 ## Disclaimer:
 This assignemnt is being done by
   1) Abhinava Sikdar 2017MT10724 www.github.com/abhisikdar
