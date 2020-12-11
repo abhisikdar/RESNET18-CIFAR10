@@ -13,9 +13,7 @@ We use PyTorch for all the four parts.
   2) Using pretrained ResNet18 on ImageNet for CIFAR-10 with variations such as <br />
     a) Fine tuning the single and last FC layer <br />
     b) Using and fine tuning two FC layers <br />
-    c) Deep Gradients <br />
-    d) Shallow Gradients
+    c) Deep Gradients
   3) Use Tiny CIFAR-10 with augmentations and dropout layers. We use the standard MoCoV2 augmentations here.
   4) Visualize the activation maps for all the above cases for initial, middle and last Conv2D layers.
   
-NOTE: Work Under Progress
